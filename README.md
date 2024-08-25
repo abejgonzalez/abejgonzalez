@@ -2,4 +2,4 @@
 
 Please look at my website for more information: https://abejgonzalez.github.io/
 
-https://docs.codersrank.io/widgets/summary-widget
+https://docs.codersrank.io/widgets/skills-chart-widget
